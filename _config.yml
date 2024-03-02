@@ -192,3 +192,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+watch:
+  - _includes
+  - _layouts
+  - _pages
+  - _posts
+
+livereload: true
